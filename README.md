@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an Engineer who follows Continuous Learning. 
+I'm an Engineer who follows Continuous Learning and Continuous Improving. 
 
 
 
