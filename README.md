@@ -22,9 +22,8 @@ The MATRIX has you...
 
 [![Linkedin Badge](https://img.shields.io/badge/-saratchandrae-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saratchandrae/)](https://www.linkedin.com/in/saratchandrae) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SaratChandraE?style=social)](https://twitter.com/saratchandrae) 
+[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&labelColor=orange&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/story/7121889)](https://stackoverflow.com/users/story/7121889)
 [![Instagram Badge](https://img.shields.io/badge/-sharat9-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/sharat9/)](https://www.instagram.com/sharat9/)
-
-
 
 -- Sarat Chandra Ejjapureddi
 
