@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm an Engineer who follows Continuous Learning and Continuous Improving. 
- 
+
+High on Javascript. 
 
 
 - 🔭 I’m currently working on Full Stack Development - Frontend, Backend and Cloud Services.
