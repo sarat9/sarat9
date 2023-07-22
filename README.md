@@ -32,9 +32,6 @@ The MATRIX has you...
 ##
 ##
 
-![s1](https://github.com/sarat9/sarat9/assets/17333491/bf4c1f37-c8f8-4bd1-940a-6139841041ec)
-
-
 
 
 
